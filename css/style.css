@@ -30,6 +30,8 @@ body {
 .container-all {
   max-width: 2560px;
 }
+
+/*Le format desktop*/
 @media screen and (min-width: 1800px) {
   .container-all {
     max-width: 1800px;
@@ -75,6 +77,7 @@ h1 {
   width: 100px;
   height: 100px;
   animation: spin 3s linear forwards;
+
   /*Placement du loader au milieu de la page*/
   margin: auto;
   position: absolute;
@@ -85,16 +88,11 @@ h1 {
 }
 
 /*Animation du loader circle*/
-@keyframes spin {
-  0% {
-    transform: rotate(0deg);
-    opacity: 1;
-  }
-  100% {
-    transform: rotate(360deg);
-    opacity: 0;
-  }
-}
+
+
+
+
+
 /*Onglet recherche de la ville*/
 .proj-search {
   display: flex;
@@ -204,12 +202,16 @@ h1 {
   max-width: 280px;
   min-width: 280px;
 }
+
+/*Le format mobile*/
 @media screen and (min-width: 375px) {
   .restaurants__card {
     max-width: 330px;
     min-width: 280px;
   }
 }
+
+/*Le format tablette*/
 @media screen and (min-width: 650px) {
   .restaurants__card {
     margin-right: 25px;
@@ -308,6 +310,7 @@ h1 {
   margin-left: 20px;
 }
 
+/*Le format desktop xl*/
 @media screen and (min-width: 1024px) {
   .card__global {
     display: flex;
@@ -363,6 +366,8 @@ h1 {
 .card__global__plats {
   animation: fadein 4s;
 }
+
+/*Le format desktop*/
 @media screen and (min-width: 1142px) {
   .card__global__plats {
     margin-right: 10px;
@@ -392,6 +397,8 @@ h1 {
   justify-content: space-between;
   overflow: hidden;
 }
+
+/*Le format mobile et desktop*/
 @media screen and (min-width: 400px) and (max-width: 1024px) {
   .card__global__contenu {
     max-width: none;
@@ -410,6 +417,8 @@ h1 {
 .card__global__contenu__dish h4 {
   font-size: 16px;
 }
+
+/*Le format mobile*/
 @media screen and (min-width: 320px) and (max-width: 425px) {
   .card__global__contenu__dish h3 {
     text-overflow: ellipsis;
@@ -441,6 +450,8 @@ h1 {
   white-space: nowrap;
   overflow: hidden;
 }
+
+/*Le format mobile*/
 @media screen and (max-width: 405px) {
   .card__global__contenu:hover .header_menu {
     max-width: 130px;
@@ -592,4 +603,3 @@ footer .footer__logo {
   margin-bottom: 15px;
 }
 
-/*# sourceMappingURL=style.css.map */
