@@ -233,6 +233,7 @@ h1 {
 .restaurants__card .restaurants__card__content .restaurants_card__content__name {
   position: relative;
 }
+/*Animation des coeurs*/
 @keyframes heart__full__opacity {
   0% {
     opacity: 0;
@@ -343,7 +344,7 @@ h1 {
   background: #99E2D0;
 }
 
-/*Animation des menus*/
+/*Animation des menus à la carte*/
 @keyframes fadein {
   0% {
     opacity: 0; 
@@ -595,4 +596,4 @@ footer .footer__logo {
   font-size: 20px;
   margin-bottom: 15px;
 }
-
+/*Fin du css*/
