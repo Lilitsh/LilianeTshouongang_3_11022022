@@ -343,15 +343,17 @@ h1 {
   background: #99E2D0;
 }
 
+/*Animation des menus*/
 @keyframes fadein {
   0% {
-    opacity: 0;
-    transform: translateY(-50px);
+    opacity: 0; 
+    transform: translateY(50px);
   }
   100% {
-    opacity: 1;
+    opacity: 1; 
     transform: translate(0)
   }
+
 }
 .card__global__entrees {
   animation: fadein 2s;
