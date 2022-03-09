@@ -346,9 +346,11 @@ h1 {
 @keyframes fadein {
   0% {
     opacity: 0;
+    transform: translateY(-50px);
   }
   100% {
     opacity: 1;
+    transform: translate(0)
   }
 }
 .card__global__entrees {
