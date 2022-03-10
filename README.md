@@ -10,9 +10,8 @@ Outils
 Visual Studio Code / Gifthub 
 
 Technologies                                                                                                                     
-Autorisés: HTML / CSS / Sass                                                                                                                
-Utilisées : HTML / CSS HTML / CSS                                                                         
-Recommandée: HTML / Sass                                                                                               
+Autorisés: HTML / CSS / Sass                                                                                                                                              Recommandée: HTML / Sass  
+Utilisées : HTML / CSS     
 Interdit : Javascript / Frameworks CSS / Inline CSS
 
 Contraintes :                                                                                                                             
@@ -23,8 +22,17 @@ Contraintes :
 • Validation W3C CSS : à passer, warning autorisés
 • Compatibilité : Dernières versions de Chrome, Firefox & Safari
 
+Polices :                                                                                                                                       
+• Logo & titres: Shrikhand                                                                                                         
+• Texte: Roboto
+
+Couleurs :                                                                                                                                 
+• Primaire: #9356DC                                                                                                                     
+• Secondaire: #FF79DA                                                                                                               
+• Tertiaire: #99E2D0
+
 Livrables                                                                                                                                              
-• Contenus des 5 pages dont 1 Page d’accueil (x1) et pages de menu (x4)                                                                                                        
+• Contenus des 5 pages dont Page d’accueil (x1) et pages de menu (x4)                                                                                                        
 • Effets graphiques et animations
 
 Animations
@@ -44,11 +52,4 @@ Pages de menu :
 • Le visiteur peut ajouter les plats qu'il souhaite à sa commande en cliquant dessus. Cela fait apparaître une petite coche à droite du plat. Cette coche devra coulisser de la droite vers la gauche. 
 Pour cette première version, l’effet peut apparaître au survol au lieu du clic. Si l’intitulé du plat est trop long, il devra être rogné avec des points de suspension. 
 
-Polices :                                                                                                                                       
-• Logo & titres: Shrikhand                                                                                                         
-• Texte: Roboto
 
-Couleurs :                                                                                                                                 
-• Primaire: #9356DC                                                                                                                     
-• Secondaire: #FF79DA                                                                                                               
-• Tertiaire: #99E2D0
