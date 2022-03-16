@@ -214,6 +214,12 @@ h1 {
   .restaurants__card {
     margin-right: 25px;
   }
+  .function__choice {
+    width: 100%;
+  }
+  .function__choice__number {
+      left: -1%;
+  }
 }
 .restaurants__card img {
   width: 100%;
@@ -403,7 +409,7 @@ h1 {
   }
 }
 .card__global__contenu__dish {
-  width: 350px;
+  width: 100%;
   padding: 14px 0;
   border-radius: 0.75rem;
   display: flex;
