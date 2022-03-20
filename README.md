@@ -11,7 +11,8 @@ Un fichier au format TXT contenant le lien vers votre repository GitHub : https:
 
 
 Outils                                                                                                                                       
-Visual Studio Code / Gifthub 
+• Visual Studio Code  
+• Gifthub 
 
 Technologies                                                                                                                     
 • Autorisés: HTML / CSS / Sass                                                                                                                                         • Recommandée: HTML / Sass  
@@ -22,8 +23,8 @@ Contraintes :
 • Approche mobile-first: oui                                                                                                 
 • Maquette mobile : oui 
 • Maquette desktop : à improviser                                                   
-• Validation W3C HTML : à passer, warning autorisés                                                               
-• Validation W3C CSS : à passer, warning autorisés
+• Validation W3C en nHTML : à passer, sans erreur                                                              
+• Validation W3C en CSS : à passer, sans erreur
 • Compatibilité : Dernières versions de Chrome, Firefox & Safari
 
 Identité graphique :
