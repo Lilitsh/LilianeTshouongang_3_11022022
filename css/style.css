@@ -213,12 +213,6 @@ h1 {
   .restaurants__card {
     margin-right: 25px;
   }
-  .function__choice {
-    width: 100%;
-  }
-  .function__choice__number {
-    left: -1%;
-  }
 }
 .restaurants__card img {
   width: 100%;
