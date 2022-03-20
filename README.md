@@ -24,7 +24,7 @@ Technologies
 Contraintes :                                                                                                                             
 • Approche mobile-first: oui                                                                                                 
 • Maquette mobile : oui 
-• Maquette desktop : à improviser                                                   
+• Maquette desktop : à improviser                                                  
 • Validation W3C en nHTML : à passer, sans erreur                                                              
 • Validation W3C en CSS : à passer, sans erreur
 • Compatibilité : dernières versions de Chrome, Firefox & Safari
