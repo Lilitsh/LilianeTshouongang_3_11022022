@@ -1,3 +1,5 @@
+/*Début*/
+
 Projet 3 : OHMYFOOD
 
 Objectif
@@ -25,7 +27,7 @@ Contraintes :
 • Maquette desktop : à improviser                                                   
 • Validation W3C en nHTML : à passer, sans erreur                                                              
 • Validation W3C en CSS : à passer, sans erreur
-• Compatibilité : Dernières versions de Chrome, Firefox & Safari
+• Compatibilité : dernières versions de Chrome, Firefox & Safari
 
 Identité graphique :
 - Polices                                                                                                                                        
@@ -52,4 +54,4 @@ Le design de ce loader n’est pas défini, toute proposition est donc la bienve
 • Le visiteur peut ajouter les plats qu'il souhaite à sa commande en cliquant dessus. Cela fait apparaître une petite coche à droite du plat. Cette coche devra coulisser de la droite vers la gauche. 
 Pour cette première version, l’effet peut apparaître au survol au lieu du clic. Si l’intitulé du plat est trop long, il devra être rogné avec des points de suspension. 
 
---- Fin ---
+/*Fin*/
