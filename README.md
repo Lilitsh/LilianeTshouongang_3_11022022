@@ -26,17 +26,16 @@ Contraintes :
 • Validation W3C CSS : à passer, warning autorisés
 • Compatibilité : Dernières versions de Chrome, Firefox & Safari
 
-Polices :                                                                                                                                       
+Identité graphique :
+- Polices                                                                                                                                        
 • Logo & titres: Shrikhand                                                                                                         
 • Texte: Roboto
-
-Couleurs :                                                                                                                                 
+- Couleurs                                                                                                                                 
 • Primaire: #9356DC                                                                                                                     
 • Secondaire: #FF79DA                                                                                                               
 • Tertiaire: #99E2D0
                                                                                                
 Effets graphiques et animations :
-
 Boutons                                                                                                                              
 • Au survol, la couleur de fond des boutons principaux devra légèrement s’éclaircir. L’ombre portée devra également être plus visible.                                 
 • À terme, les visiteurs pourront sauvegarder leurs menus préférés. Pour ça, un bouton "J’aime" en forme de cœur est présent sur la maquette. 
