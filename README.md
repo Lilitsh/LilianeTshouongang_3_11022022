@@ -6,9 +6,8 @@ L'objectif est de réaliser l'intégration de la maquette d'un site de réservat
 Versioning                                                                                                                                       
 Le code a été versionné sur GIT et déployé sur GITHUB.
 
-Livrables                                                                                                                                                
-Un fichier au format TXT contenant le lien vers votre repository GitHub : https://github.com/Lilitsh/LilianeTshouongang_3_11022022.
-Un fichier au format TXT contenant le lien vers la page web du site: file:///C:/Users/ltg/Desktop/OPEN_CLASSROOMS/Projet%203/LilianeTshouongang_3_11022022/index.html.
+Livrables : 
+Un fichier au format TXT contenant le lien vers votre repository GitHub : https://github.com/Lilitsh/LilianeTshouongang_3_11022022 & un fichier au format TXT contenant le lien vers la page web du site: file:///C:/Users/ltg/Desktop/OPEN_CLASSROOMS/Projet%203/LilianeTshouongang_3_11022022/index.html.
 
 
 Outils                                                                                                                                       
